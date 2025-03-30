@@ -11,6 +11,11 @@ body {
 
 }
 
+.tetetest {
+    color: rgb(red, green, blue)
+}
+
+
 .background-color {
     color: white;
     background-color: midnightblue;
