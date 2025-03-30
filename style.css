@@ -1,3 +1,10 @@
 body {
-    background-color: red;
+    background-color: #f0ffff;
+
+}
+
+.test {
+    color: blue;
+    font-weight: bold;
+
 }
